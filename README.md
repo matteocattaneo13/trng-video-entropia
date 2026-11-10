@@ -6,7 +6,7 @@ La tesi stima con la NIST SP 800-90B quanta min-entropia contengono quattro vide
 
 > **Avvertenza.** I video sono pubblici: chiunque li scarichi riproduce gli stessi bit. Il codice misura la variabilità delle scene e **non** va usato per generare chiavi o semi crittografici.
 
-Repository: <https://github.com/cattaneo-matteo/trng-video-entropia>
+Repository: <https://github.com/matteocattaneo13/trng-video-entropia>
 
 ## Pipeline
 
