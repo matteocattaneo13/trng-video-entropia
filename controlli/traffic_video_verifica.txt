@@ -1,0 +1,24 @@
+=== VERIFICA VIDEO: traffic_video.mp4 ===
+SHA-256 file : 825855680ecddeb17be96347c58cdc34e5a04ca2d718ac002cbef087957b6b70
+Codec        : av1 (Main)  pix_fmt=yuv420p
+Risoluzione  : 1920x1080
+Frame rate   : 60/1  (r=60/1)
+Bitrate      : 1.49 Mbit/s
+Durata       : 50.3 min
+
+Analisi dei frame in corso (puo' richiedere diversi minuti)...
+Frame analizzati: 181254  (50.3 min a 60.00 fps)
+
+[1] Frame identici o quasi identici al precedente: 20.29%  (di cui esattamente identici: 0.00%)
+    ATTENZIONE: duplicati diffusi o sporadici (conversione fps parziale, pause/lag della sorgente).
+
+[2] Delta medio per frame (mediana globale): 0.921 livelli di grigio
+    Possibili TAGLI di scena a: 0:02, 0:19, 0:42, 0:43, 0:47, 1:05, 1:06, 1:07, 1:16, 1:17, 1:29, 1:51 ...
+    Tratti con dinamica anomala (>1.8x o <0.5x la mediana, finestra 60 s): 273 finestre, es. a 2:21 -> controlla: accelerazione, intro/outro o cambio di scena
+
+[3] Tratti RIPETUTI (loop): 0 candidati
+    Nessun loop evidente. OK
+
+[4] Segmento pulito piu' lungo: da 40:42, durata 1.5 min
+    ffmpeg -ss 2442 -t 89 -i "traffic_video.mp4" -c copy "traffic_video_pulito.mp4"
+    (poi controlla a occhio che nel pezzo non ci siano scritte o loghi)

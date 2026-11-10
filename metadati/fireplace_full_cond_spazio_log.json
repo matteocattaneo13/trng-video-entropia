@@ -1,0 +1,312 @@
+{
+  "prefisso": "fireplace_full",
+  "modo": "spazio",
+  "margine": 2.0,
+  "video": "fireplace_video.mp4",
+  "sha256_video": "cea0c28b87f064170bf4c8f1c3725e09578ceb7045f67bb69ef06cdda087ae43",
+  "blocchi": [
+    {
+      "blocco": 0,
+      "H_spazio": 0.34201,
+      "H_tempo": 0.01962,
+      "H_usata": 0.34201,
+      "campioni_per_uscita": 1498,
+      "uscite_256bit": 667,
+      "bit_out": 170752,
+      "file_sorgente": "fireplace_full_b0_spazio.bin"
+    },
+    {
+      "blocco": 1,
+      "H_spazio": 0.340116,
+      "H_tempo": 0.024069,
+      "H_usata": 0.340116,
+      "campioni_per_uscita": 1506,
+      "uscite_256bit": 664,
+      "bit_out": 169984,
+      "file_sorgente": "fireplace_full_b1_spazio.bin"
+    },
+    {
+      "blocco": 2,
+      "H_spazio": 0.360281,
+      "H_tempo": 0.047141,
+      "H_usata": 0.360281,
+      "campioni_per_uscita": 1422,
+      "uscite_256bit": 703,
+      "bit_out": 179968,
+      "file_sorgente": "fireplace_full_b2_spazio.bin"
+    },
+    {
+      "blocco": 3,
+      "H_spazio": 0.379122,
+      "H_tempo": 0.02282,
+      "H_usata": 0.379122,
+      "campioni_per_uscita": 1351,
+      "uscite_256bit": 740,
+      "bit_out": 189440,
+      "file_sorgente": "fireplace_full_b3_spazio.bin"
+    },
+    {
+      "blocco": 4,
+      "H_spazio": 0.375108,
+      "H_tempo": 0.037237,
+      "H_usata": 0.375108,
+      "campioni_per_uscita": 1365,
+      "uscite_256bit": 732,
+      "bit_out": 187392,
+      "file_sorgente": "fireplace_full_b4_spazio.bin"
+    },
+    {
+      "blocco": 5,
+      "H_spazio": 0.351732,
+      "H_tempo": 0.026491,
+      "H_usata": 0.351732,
+      "campioni_per_uscita": 1456,
+      "uscite_256bit": 686,
+      "bit_out": 175616,
+      "file_sorgente": "fireplace_full_b5_spazio.bin"
+    },
+    {
+      "blocco": 6,
+      "H_spazio": 0.381075,
+      "H_tempo": 0.034946,
+      "H_usata": 0.381075,
+      "campioni_per_uscita": 1344,
+      "uscite_256bit": 744,
+      "bit_out": 190464,
+      "file_sorgente": "fireplace_full_b6_spazio.bin"
+    },
+    {
+      "blocco": 7,
+      "H_spazio": 0.382189,
+      "H_tempo": 0.055069,
+      "H_usata": 0.382189,
+      "campioni_per_uscita": 1340,
+      "uscite_256bit": 746,
+      "bit_out": 190976,
+      "file_sorgente": "fireplace_full_b7_spazio.bin"
+    },
+    {
+      "blocco": 8,
+      "H_spazio": 0.376064,
+      "H_tempo": 0.026738,
+      "H_usata": 0.376064,
+      "campioni_per_uscita": 1362,
+      "uscite_256bit": 734,
+      "bit_out": 187904,
+      "file_sorgente": "fireplace_full_b8_spazio.bin"
+    },
+    {
+      "blocco": 9,
+      "H_spazio": 0.453067,
+      "H_tempo": 0.099215,
+      "H_usata": 0.453067,
+      "campioni_per_uscita": 1131,
+      "uscite_256bit": 884,
+      "bit_out": 226304,
+      "file_sorgente": "fireplace_full_b9_spazio.bin"
+    },
+    {
+      "blocco": 10,
+      "H_spazio": 0.460326,
+      "H_tempo": 0.149599,
+      "H_usata": 0.460326,
+      "campioni_per_uscita": 1113,
+      "uscite_256bit": 898,
+      "bit_out": 229888,
+      "file_sorgente": "fireplace_full_b10_spazio.bin"
+    },
+    {
+      "blocco": 11,
+      "H_spazio": 0.485568,
+      "H_tempo": 0.165487,
+      "H_usata": 0.485568,
+      "campioni_per_uscita": 1055,
+      "uscite_256bit": 947,
+      "bit_out": 242432,
+      "file_sorgente": "fireplace_full_b11_spazio.bin"
+    },
+    {
+      "blocco": 12,
+      "H_spazio": 0.399437,
+      "H_tempo": 0.04961,
+      "H_usata": 0.399437,
+      "campioni_per_uscita": 1282,
+      "uscite_256bit": 780,
+      "bit_out": 199680,
+      "file_sorgente": "fireplace_full_b12_spazio.bin"
+    },
+    {
+      "blocco": 13,
+      "H_spazio": 0.422842,
+      "H_tempo": 0.083296,
+      "H_usata": 0.422842,
+      "campioni_per_uscita": 1211,
+      "uscite_256bit": 825,
+      "bit_out": 211200,
+      "file_sorgente": "fireplace_full_b13_spazio.bin"
+    },
+    {
+      "blocco": 14,
+      "H_spazio": 0.427157,
+      "H_tempo": 0.171922,
+      "H_usata": 0.427157,
+      "campioni_per_uscita": 1199,
+      "uscite_256bit": 834,
+      "bit_out": 213504,
+      "file_sorgente": "fireplace_full_b14_spazio.bin"
+    },
+    {
+      "blocco": 15,
+      "H_spazio": 0.16254,
+      "H_tempo": 0.019782,
+      "H_usata": 0.16254,
+      "campioni_per_uscita": 3150,
+      "uscite_256bit": 317,
+      "bit_out": 81152,
+      "file_sorgente": "fireplace_full_b15_spazio.bin"
+    },
+    {
+      "blocco": 16,
+      "H_spazio": 0.295524,
+      "H_tempo": 0.02077,
+      "H_usata": 0.295524,
+      "campioni_per_uscita": 1733,
+      "uscite_256bit": 577,
+      "bit_out": 147712,
+      "file_sorgente": "fireplace_full_b16_spazio.bin"
+    },
+    {
+      "blocco": 17,
+      "H_spazio": 0.318128,
+      "H_tempo": 0.021685,
+      "H_usata": 0.318128,
+      "campioni_per_uscita": 1610,
+      "uscite_256bit": 621,
+      "bit_out": 158976,
+      "file_sorgente": "fireplace_full_b17_spazio.bin"
+    },
+    {
+      "blocco": 18,
+      "H_spazio": 0.276719,
+      "H_tempo": 0.008942,
+      "H_usata": 0.276719,
+      "campioni_per_uscita": 1851,
+      "uscite_256bit": 540,
+      "bit_out": 138240,
+      "file_sorgente": "fireplace_full_b18_spazio.bin"
+    },
+    {
+      "blocco": 19,
+      "H_spazio": 0.336509,
+      "H_tempo": 0.01864,
+      "H_usata": 0.336509,
+      "campioni_per_uscita": 1522,
+      "uscite_256bit": 657,
+      "bit_out": 168192,
+      "file_sorgente": "fireplace_full_b19_spazio.bin"
+    },
+    {
+      "blocco": 20,
+      "H_spazio": 0.366222,
+      "H_tempo": 0.036201,
+      "H_usata": 0.366222,
+      "campioni_per_uscita": 1399,
+      "uscite_256bit": 714,
+      "bit_out": 182784,
+      "file_sorgente": "fireplace_full_b20_spazio.bin"
+    },
+    {
+      "blocco": 21,
+      "H_spazio": 0.409938,
+      "H_tempo": 0.040827,
+      "H_usata": 0.409938,
+      "campioni_per_uscita": 1249,
+      "uscite_256bit": 800,
+      "bit_out": 204800,
+      "file_sorgente": "fireplace_full_b21_spazio.bin"
+    },
+    {
+      "blocco": 22,
+      "H_spazio": 0.483452,
+      "H_tempo": 0.062853,
+      "H_usata": 0.483452,
+      "campioni_per_uscita": 1060,
+      "uscite_256bit": 943,
+      "bit_out": 241408,
+      "file_sorgente": "fireplace_full_b22_spazio.bin"
+    },
+    {
+      "blocco": 23,
+      "H_spazio": 0.468338,
+      "H_tempo": 0.060647,
+      "H_usata": 0.468338,
+      "campioni_per_uscita": 1094,
+      "uscite_256bit": 914,
+      "bit_out": 233984,
+      "file_sorgente": "fireplace_full_b23_spazio.bin"
+    },
+    {
+      "blocco": 24,
+      "H_spazio": 0.412916,
+      "H_tempo": 0.137248,
+      "H_usata": 0.412916,
+      "campioni_per_uscita": 1240,
+      "uscite_256bit": 806,
+      "bit_out": 206336,
+      "file_sorgente": "fireplace_full_b24_spazio.bin"
+    },
+    {
+      "blocco": 25,
+      "H_spazio": 0.163702,
+      "H_tempo": 0.019069,
+      "H_usata": 0.163702,
+      "campioni_per_uscita": 3128,
+      "uscite_256bit": 319,
+      "bit_out": 81664,
+      "file_sorgente": "fireplace_full_b25_spazio.bin"
+    },
+    {
+      "blocco": 26,
+      "H_spazio": 0.300655,
+      "H_tempo": 0.020909,
+      "H_usata": 0.300655,
+      "campioni_per_uscita": 1703,
+      "uscite_256bit": 587,
+      "bit_out": 150272,
+      "file_sorgente": "fireplace_full_b26_spazio.bin"
+    },
+    {
+      "blocco": 27,
+      "H_spazio": 0.186507,
+      "H_tempo": 0.021577,
+      "H_usata": 0.186507,
+      "campioni_per_uscita": 2746,
+      "uscite_256bit": 364,
+      "bit_out": 93184,
+      "file_sorgente": "fireplace_full_b27_spazio.bin"
+    },
+    {
+      "blocco": 28,
+      "H_spazio": 0.289376,
+      "H_tempo": 0.008952,
+      "H_usata": 0.289376,
+      "campioni_per_uscita": 1770,
+      "uscite_256bit": 564,
+      "bit_out": 144384,
+      "file_sorgente": "fireplace_full_b28_spazio.bin"
+    },
+    {
+      "blocco": 29,
+      "H_spazio": 0.34775,
+      "H_tempo": 0.024118,
+      "H_usata": 0.34775,
+      "campioni_per_uscita": 1473,
+      "uscite_256bit": 678,
+      "bit_out": 173568,
+      "file_sorgente": "fireplace_full_b29_spazio.bin"
+    }
+  ],
+  "bit_totali": 5372160,
+  "entropia_totale_stimata_bit": 10754370.0,
+  "sha256_output": "8972d5364e263e5e1f3fa962638f412654d4d9cbff32a1176579e8edb9a51b44"
+}

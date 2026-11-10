@@ -1,0 +1,312 @@
+{
+  "prefisso": "fireplace_full",
+  "modo": "min",
+  "margine": 2.0,
+  "video": "fireplace_video.mp4",
+  "sha256_video": "cea0c28b87f064170bf4c8f1c3725e09578ceb7045f67bb69ef06cdda087ae43",
+  "blocchi": [
+    {
+      "blocco": 0,
+      "H_spazio": 0.34201,
+      "H_tempo": 0.01962,
+      "H_usata": 0.01962,
+      "campioni_per_uscita": 26096,
+      "uscite_256bit": 38,
+      "bit_out": 9728,
+      "file_sorgente": "fireplace_full_b0_spazio.bin"
+    },
+    {
+      "blocco": 1,
+      "H_spazio": 0.340116,
+      "H_tempo": 0.024069,
+      "H_usata": 0.024069,
+      "campioni_per_uscita": 21273,
+      "uscite_256bit": 47,
+      "bit_out": 12032,
+      "file_sorgente": "fireplace_full_b1_spazio.bin"
+    },
+    {
+      "blocco": 2,
+      "H_spazio": 0.360281,
+      "H_tempo": 0.047141,
+      "H_usata": 0.047141,
+      "campioni_per_uscita": 10862,
+      "uscite_256bit": 92,
+      "bit_out": 23552,
+      "file_sorgente": "fireplace_full_b2_spazio.bin"
+    },
+    {
+      "blocco": 3,
+      "H_spazio": 0.379122,
+      "H_tempo": 0.02282,
+      "H_usata": 0.02282,
+      "campioni_per_uscita": 22437,
+      "uscite_256bit": 44,
+      "bit_out": 11264,
+      "file_sorgente": "fireplace_full_b3_spazio.bin"
+    },
+    {
+      "blocco": 4,
+      "H_spazio": 0.375108,
+      "H_tempo": 0.037237,
+      "H_usata": 0.037237,
+      "campioni_per_uscita": 13750,
+      "uscite_256bit": 72,
+      "bit_out": 18432,
+      "file_sorgente": "fireplace_full_b4_spazio.bin"
+    },
+    {
+      "blocco": 5,
+      "H_spazio": 0.351732,
+      "H_tempo": 0.026491,
+      "H_usata": 0.026491,
+      "campioni_per_uscita": 19328,
+      "uscite_256bit": 51,
+      "bit_out": 13056,
+      "file_sorgente": "fireplace_full_b5_spazio.bin"
+    },
+    {
+      "blocco": 6,
+      "H_spazio": 0.381075,
+      "H_tempo": 0.034946,
+      "H_usata": 0.034946,
+      "campioni_per_uscita": 14652,
+      "uscite_256bit": 68,
+      "bit_out": 17408,
+      "file_sorgente": "fireplace_full_b6_spazio.bin"
+    },
+    {
+      "blocco": 7,
+      "H_spazio": 0.382189,
+      "H_tempo": 0.055069,
+      "H_usata": 0.055069,
+      "campioni_per_uscita": 9298,
+      "uscite_256bit": 107,
+      "bit_out": 27392,
+      "file_sorgente": "fireplace_full_b7_spazio.bin"
+    },
+    {
+      "blocco": 8,
+      "H_spazio": 0.376064,
+      "H_tempo": 0.026738,
+      "H_usata": 0.026738,
+      "campioni_per_uscita": 19149,
+      "uscite_256bit": 52,
+      "bit_out": 13312,
+      "file_sorgente": "fireplace_full_b8_spazio.bin"
+    },
+    {
+      "blocco": 9,
+      "H_spazio": 0.453067,
+      "H_tempo": 0.099215,
+      "H_usata": 0.099215,
+      "campioni_per_uscita": 5161,
+      "uscite_256bit": 193,
+      "bit_out": 49408,
+      "file_sorgente": "fireplace_full_b9_spazio.bin"
+    },
+    {
+      "blocco": 10,
+      "H_spazio": 0.460326,
+      "H_tempo": 0.149599,
+      "H_usata": 0.149599,
+      "campioni_per_uscita": 3423,
+      "uscite_256bit": 292,
+      "bit_out": 74752,
+      "file_sorgente": "fireplace_full_b10_spazio.bin"
+    },
+    {
+      "blocco": 11,
+      "H_spazio": 0.485568,
+      "H_tempo": 0.165487,
+      "H_usata": 0.165487,
+      "campioni_per_uscita": 3094,
+      "uscite_256bit": 323,
+      "bit_out": 82688,
+      "file_sorgente": "fireplace_full_b11_spazio.bin"
+    },
+    {
+      "blocco": 12,
+      "H_spazio": 0.399437,
+      "H_tempo": 0.04961,
+      "H_usata": 0.04961,
+      "campioni_per_uscita": 10321,
+      "uscite_256bit": 96,
+      "bit_out": 24576,
+      "file_sorgente": "fireplace_full_b12_spazio.bin"
+    },
+    {
+      "blocco": 13,
+      "H_spazio": 0.422842,
+      "H_tempo": 0.083296,
+      "H_usata": 0.083296,
+      "campioni_per_uscita": 6147,
+      "uscite_256bit": 162,
+      "bit_out": 41472,
+      "file_sorgente": "fireplace_full_b13_spazio.bin"
+    },
+    {
+      "blocco": 14,
+      "H_spazio": 0.427157,
+      "H_tempo": 0.171922,
+      "H_usata": 0.171922,
+      "campioni_per_uscita": 2979,
+      "uscite_256bit": 335,
+      "bit_out": 85760,
+      "file_sorgente": "fireplace_full_b14_spazio.bin"
+    },
+    {
+      "blocco": 15,
+      "H_spazio": 0.16254,
+      "H_tempo": 0.019782,
+      "H_usata": 0.019782,
+      "campioni_per_uscita": 25883,
+      "uscite_256bit": 38,
+      "bit_out": 9728,
+      "file_sorgente": "fireplace_full_b15_spazio.bin"
+    },
+    {
+      "blocco": 16,
+      "H_spazio": 0.295524,
+      "H_tempo": 0.02077,
+      "H_usata": 0.02077,
+      "campioni_per_uscita": 24651,
+      "uscite_256bit": 40,
+      "bit_out": 10240,
+      "file_sorgente": "fireplace_full_b16_spazio.bin"
+    },
+    {
+      "blocco": 17,
+      "H_spazio": 0.318128,
+      "H_tempo": 0.021685,
+      "H_usata": 0.021685,
+      "campioni_per_uscita": 23611,
+      "uscite_256bit": 42,
+      "bit_out": 10752,
+      "file_sorgente": "fireplace_full_b17_spazio.bin"
+    },
+    {
+      "blocco": 18,
+      "H_spazio": 0.276719,
+      "H_tempo": 0.008942,
+      "H_usata": 0.008942,
+      "campioni_per_uscita": 57258,
+      "uscite_256bit": 17,
+      "bit_out": 4352,
+      "file_sorgente": "fireplace_full_b18_spazio.bin"
+    },
+    {
+      "blocco": 19,
+      "H_spazio": 0.336509,
+      "H_tempo": 0.01864,
+      "H_usata": 0.01864,
+      "campioni_per_uscita": 27468,
+      "uscite_256bit": 36,
+      "bit_out": 9216,
+      "file_sorgente": "fireplace_full_b19_spazio.bin"
+    },
+    {
+      "blocco": 20,
+      "H_spazio": 0.366222,
+      "H_tempo": 0.036201,
+      "H_usata": 0.036201,
+      "campioni_per_uscita": 14144,
+      "uscite_256bit": 70,
+      "bit_out": 17920,
+      "file_sorgente": "fireplace_full_b20_spazio.bin"
+    },
+    {
+      "blocco": 21,
+      "H_spazio": 0.409938,
+      "H_tempo": 0.040827,
+      "H_usata": 0.040827,
+      "campioni_per_uscita": 12541,
+      "uscite_256bit": 79,
+      "bit_out": 20224,
+      "file_sorgente": "fireplace_full_b21_spazio.bin"
+    },
+    {
+      "blocco": 22,
+      "H_spazio": 0.483452,
+      "H_tempo": 0.062853,
+      "H_usata": 0.062853,
+      "campioni_per_uscita": 8146,
+      "uscite_256bit": 122,
+      "bit_out": 31232,
+      "file_sorgente": "fireplace_full_b22_spazio.bin"
+    },
+    {
+      "blocco": 23,
+      "H_spazio": 0.468338,
+      "H_tempo": 0.060647,
+      "H_usata": 0.060647,
+      "campioni_per_uscita": 8443,
+      "uscite_256bit": 118,
+      "bit_out": 30208,
+      "file_sorgente": "fireplace_full_b23_spazio.bin"
+    },
+    {
+      "blocco": 24,
+      "H_spazio": 0.412916,
+      "H_tempo": 0.137248,
+      "H_usata": 0.137248,
+      "campioni_per_uscita": 3731,
+      "uscite_256bit": 268,
+      "bit_out": 68608,
+      "file_sorgente": "fireplace_full_b24_spazio.bin"
+    },
+    {
+      "blocco": 25,
+      "H_spazio": 0.163702,
+      "H_tempo": 0.019069,
+      "H_usata": 0.019069,
+      "campioni_per_uscita": 26850,
+      "uscite_256bit": 37,
+      "bit_out": 9472,
+      "file_sorgente": "fireplace_full_b25_spazio.bin"
+    },
+    {
+      "blocco": 26,
+      "H_spazio": 0.300655,
+      "H_tempo": 0.020909,
+      "H_usata": 0.020909,
+      "campioni_per_uscita": 24488,
+      "uscite_256bit": 40,
+      "bit_out": 10240,
+      "file_sorgente": "fireplace_full_b26_spazio.bin"
+    },
+    {
+      "blocco": 27,
+      "H_spazio": 0.186507,
+      "H_tempo": 0.021577,
+      "H_usata": 0.021577,
+      "campioni_per_uscita": 23729,
+      "uscite_256bit": 42,
+      "bit_out": 10752,
+      "file_sorgente": "fireplace_full_b27_spazio.bin"
+    },
+    {
+      "blocco": 28,
+      "H_spazio": 0.289376,
+      "H_tempo": 0.008952,
+      "H_usata": 0.008952,
+      "campioni_per_uscita": 57194,
+      "uscite_256bit": 17,
+      "bit_out": 4352,
+      "file_sorgente": "fireplace_full_b28_spazio.bin"
+    },
+    {
+      "blocco": 29,
+      "H_spazio": 0.34775,
+      "H_tempo": 0.024118,
+      "H_usata": 0.024118,
+      "campioni_per_uscita": 21229,
+      "uscite_256bit": 47,
+      "bit_out": 12032,
+      "file_sorgente": "fireplace_full_b29_spazio.bin"
+    }
+  ],
+  "bit_totali": 764160,
+  "entropia_totale_stimata_bit": 1535480.0,
+  "sha256_output": "13205b19c36d5b2bedc768d090153f3faf845fc6e388df49489d7e56f2909444"
+}

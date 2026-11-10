@@ -1,0 +1,747 @@
+{
+  "video": "traffic_40min.mp4",
+  "sha256_video": "c4d9fb06c443640b151969a97a519485c8af1ab379c1ba7c748c4f608cfc98e5",
+  "fps": 23.976030634002726,
+  "frame_totali": 57560,
+  "risoluzione_analisi": [
+    640,
+    360
+  ],
+  "passo_griglia": 16,
+  "punti_per_frame": 880,
+  "bit_per_campione": 8,
+  "salto_frame": 1,
+  "fps_effettivi": 23.976030634002726,
+  "campioni_per_blocco": 1000000,
+  "frame_per_blocco": 1137,
+  "escludi": null,
+  "evita": "",
+  "margine": "8,25",
+  "regione_s": [
+    0.0,
+    2395.767709711605
+  ],
+  "blocchi": [
+    {
+      "blocco": 0,
+      "frame_iniziale_richiesto": 0,
+      "frame_iniziale_reale": 0,
+      "secondo_iniziale": 0.0,
+      "file": {
+        "spazio": "traffic_full_b0_spazio.bin",
+        "tempo": "traffic_full_b0_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.950857,
+          "H_min_solo_valore_piu_frequente": 0.07269970532967317,
+          "H_shannon": 0.4225784598353095,
+          "simboli_distinti": 218
+        },
+        "tempo": {
+          "frazione_zeri": 0.950859,
+          "H_min_solo_valore_piu_frequente": 0.07269667081759895,
+          "H_shannon": 0.42260197132728666,
+          "simboli_distinti": 218
+        }
+      }
+    },
+    {
+      "blocco": 1,
+      "frame_iniziale_richiesto": 1941,
+      "frame_iniziale_reale": 1941,
+      "secondo_iniziale": 81.0,
+      "file": {
+        "spazio": "traffic_full_b1_spazio.bin",
+        "tempo": "traffic_full_b1_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.937214,
+          "H_min_solo_valore_piu_frequente": 0.09354958970496953,
+          "H_shannon": 0.5208245307368787,
+          "simboli_distinti": 245
+        },
+        "tempo": {
+          "frazione_zeri": 0.937211,
+          "H_min_solo_valore_piu_frequente": 0.09355420774529938,
+          "H_shannon": 0.5208483507403505,
+          "simboli_distinti": 245
+        }
+      }
+    },
+    {
+      "blocco": 2,
+      "frame_iniziale_richiesto": 3882,
+      "frame_iniziale_reale": 3882,
+      "secondo_iniziale": 161.9,
+      "file": {
+        "spazio": "traffic_full_b2_spazio.bin",
+        "tempo": "traffic_full_b2_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.955161,
+          "H_min_solo_valore_piu_frequente": 0.06618416349324362,
+          "H_shannon": 0.3927447369550072,
+          "simboli_distinti": 197
+        },
+        "tempo": {
+          "frazione_zeri": 0.955166,
+          "H_min_solo_valore_piu_frequente": 0.06617661140901474,
+          "H_shannon": 0.3927150289280895,
+          "simboli_distinti": 197
+        }
+      }
+    },
+    {
+      "blocco": 3,
+      "frame_iniziale_richiesto": 5824,
+      "frame_iniziale_reale": 5824,
+      "secondo_iniziale": 242.9,
+      "file": {
+        "spazio": "traffic_full_b3_spazio.bin",
+        "tempo": "traffic_full_b3_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.95861,
+          "H_min_solo_valore_piu_frequente": 0.060984104987695915,
+          "H_shannon": 0.37015887296350025,
+          "simboli_distinti": 209
+        },
+        "tempo": {
+          "frazione_zeri": 0.958604,
+          "H_min_solo_valore_piu_frequente": 0.06099313493453053,
+          "H_shannon": 0.37019747931200897,
+          "simboli_distinti": 209
+        }
+      }
+    },
+    {
+      "blocco": 4,
+      "frame_iniziale_richiesto": 7765,
+      "frame_iniziale_reale": 7765,
+      "secondo_iniziale": 323.9,
+      "file": {
+        "spazio": "traffic_full_b4_spazio.bin",
+        "tempo": "traffic_full_b4_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.933182,
+          "H_min_solo_valore_piu_frequente": 0.0997696152133274,
+          "H_shannon": 0.5410746069199714,
+          "simboli_distinti": 243
+        },
+        "tempo": {
+          "frazione_zeri": 0.933193,
+          "H_min_solo_valore_piu_frequente": 0.09975260936460986,
+          "H_shannon": 0.541041643004104,
+          "simboli_distinti": 243
+        }
+      }
+    },
+    {
+      "blocco": 5,
+      "frame_iniziale_richiesto": 9707,
+      "frame_iniziale_reale": 9707,
+      "secondo_iniziale": 404.9,
+      "file": {
+        "spazio": "traffic_full_b5_spazio.bin",
+        "tempo": "traffic_full_b5_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.960572,
+          "H_min_solo_valore_piu_frequente": 0.058034339247585796,
+          "H_shannon": 0.3501602271889587,
+          "simboli_distinti": 174
+        },
+        "tempo": {
+          "frazione_zeri": 0.960526,
+          "H_min_solo_valore_piu_frequente": 0.05810342887434462,
+          "H_shannon": 0.35050115027827444,
+          "simboli_distinti": 174
+        }
+      }
+    },
+    {
+      "blocco": 6,
+      "frame_iniziale_richiesto": 11648,
+      "frame_iniziale_reale": 11648,
+      "secondo_iniziale": 485.8,
+      "file": {
+        "spazio": "traffic_full_b6_spazio.bin",
+        "tempo": "traffic_full_b6_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.926931,
+          "H_min_solo_valore_piu_frequente": 0.10946614510105479,
+          "H_shannon": 0.5996056508595868,
+          "simboli_distinti": 244
+        },
+        "tempo": {
+          "frazione_zeri": 0.926917,
+          "H_min_solo_valore_piu_frequente": 0.10948793516213075,
+          "H_shannon": 0.5997348017246913,
+          "simboli_distinti": 244
+        }
+      }
+    },
+    {
+      "blocco": 7,
+      "frame_iniziale_richiesto": 13590,
+      "frame_iniziale_reale": 13590,
+      "secondo_iniziale": 566.8,
+      "file": {
+        "spazio": "traffic_full_b7_spazio.bin",
+        "tempo": "traffic_full_b7_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.940735,
+          "H_min_solo_valore_piu_frequente": 0.08813971415321777,
+          "H_shannon": 0.49323665215594104,
+          "simboli_distinti": 243
+        },
+        "tempo": {
+          "frazione_zeri": 0.94075,
+          "H_min_solo_valore_piu_frequente": 0.08811671059420584,
+          "H_shannon": 0.4931817535646795,
+          "simboli_distinti": 243
+        }
+      }
+    },
+    {
+      "blocco": 8,
+      "frame_iniziale_richiesto": 15531,
+      "frame_iniziale_reale": 15531,
+      "secondo_iniziale": 647.8,
+      "file": {
+        "spazio": "traffic_full_b8_spazio.bin",
+        "tempo": "traffic_full_b8_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.954695,
+          "H_min_solo_valore_piu_frequente": 0.06688819133868959,
+          "H_shannon": 0.4027535447581097,
+          "simboli_distinti": 198
+        },
+        "tempo": {
+          "frazione_zeri": 0.954661,
+          "H_min_solo_valore_piu_frequente": 0.06693957162753607,
+          "H_shannon": 0.40300183113646304,
+          "simboli_distinti": 198
+        }
+      }
+    },
+    {
+      "blocco": 9,
+      "frame_iniziale_richiesto": 17473,
+      "frame_iniziale_reale": 17473,
+      "secondo_iniziale": 728.8,
+      "file": {
+        "spazio": "traffic_full_b9_spazio.bin",
+        "tempo": "traffic_full_b9_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.950792,
+          "H_min_solo_valore_piu_frequente": 0.07279833044681548,
+          "H_shannon": 0.41932737628271655,
+          "simboli_distinti": 182
+        },
+        "tempo": {
+          "frazione_zeri": 0.950778,
+          "H_min_solo_valore_piu_frequente": 0.07281957366223511,
+          "H_shannon": 0.4194591136157805,
+          "simboli_distinti": 183
+        }
+      }
+    },
+    {
+      "blocco": 10,
+      "frame_iniziale_richiesto": 19414,
+      "frame_iniziale_reale": 19414,
+      "secondo_iniziale": 809.7,
+      "file": {
+        "spazio": "traffic_full_b10_spazio.bin",
+        "tempo": "traffic_full_b10_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.92681,
+          "H_min_solo_valore_piu_frequente": 0.10965448435685739,
+          "H_shannon": 0.6059588339143335,
+          "simboli_distinti": 252
+        },
+        "tempo": {
+          "frazione_zeri": 0.92681,
+          "H_min_solo_valore_piu_frequente": 0.10965448435685739,
+          "H_shannon": 0.6060343139034635,
+          "simboli_distinti": 252
+        }
+      }
+    },
+    {
+      "blocco": 11,
+      "frame_iniziale_richiesto": 21356,
+      "frame_iniziale_reale": 21356,
+      "secondo_iniziale": 890.7,
+      "file": {
+        "spazio": "traffic_full_b11_spazio.bin",
+        "tempo": "traffic_full_b11_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.933303,
+          "H_min_solo_valore_piu_frequente": 0.09958256190168314,
+          "H_shannon": 0.5606644701304613,
+          "simboli_distinti": 240
+        },
+        "tempo": {
+          "frazione_zeri": 0.933235,
+          "H_min_solo_valore_piu_frequente": 0.09968767978604852,
+          "H_shannon": 0.561142697576102,
+          "simboli_distinti": 240
+        }
+      }
+    },
+    {
+      "blocco": 12,
+      "frame_iniziale_richiesto": 23297,
+      "frame_iniziale_reale": 23297,
+      "secondo_iniziale": 971.7,
+      "file": {
+        "spazio": "traffic_full_b12_spazio.bin",
+        "tempo": "traffic_full_b12_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.938174,
+          "H_min_solo_valore_piu_frequente": 0.09207257549753584,
+          "H_shannon": 0.5192024580347823,
+          "simboli_distinti": 220
+        },
+        "tempo": {
+          "frazione_zeri": 0.938199,
+          "H_min_solo_valore_piu_frequente": 0.09203413178082873,
+          "H_shannon": 0.519058981456626,
+          "simboli_distinti": 220
+        }
+      }
+    },
+    {
+      "blocco": 13,
+      "frame_iniziale_richiesto": 25239,
+      "frame_iniziale_reale": 25239,
+      "secondo_iniziale": 1052.7,
+      "file": {
+        "spazio": "traffic_full_b13_spazio.bin",
+        "tempo": "traffic_full_b13_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.922203,
+          "H_min_solo_valore_piu_frequente": 0.11684373592771617,
+          "H_shannon": 0.624874708851703,
+          "simboli_distinti": 248
+        },
+        "tempo": {
+          "frazione_zeri": 0.922186,
+          "H_min_solo_valore_piu_frequente": 0.11687033098515348,
+          "H_shannon": 0.6250368433557478,
+          "simboli_distinti": 248
+        }
+      }
+    },
+    {
+      "blocco": 14,
+      "frame_iniziale_richiesto": 27180,
+      "frame_iniziale_reale": 27180,
+      "secondo_iniziale": 1133.6,
+      "file": {
+        "spazio": "traffic_full_b14_spazio.bin",
+        "tempo": "traffic_full_b14_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.956052,
+          "H_min_solo_valore_piu_frequente": 0.06483900586344782,
+          "H_shannon": 0.38514087943808906,
+          "simboli_distinti": 216
+        },
+        "tempo": {
+          "frazione_zeri": 0.956046,
+          "H_min_solo_valore_piu_frequente": 0.06484805997076393,
+          "H_shannon": 0.38521369509446357,
+          "simboli_distinti": 216
+        }
+      }
+    },
+    {
+      "blocco": 15,
+      "frame_iniziale_richiesto": 29122,
+      "frame_iniziale_reale": 29122,
+      "secondo_iniziale": 1214.6,
+      "file": {
+        "spazio": "traffic_full_b15_spazio.bin",
+        "tempo": "traffic_full_b15_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.973297,
+          "H_min_solo_valore_piu_frequente": 0.039047986648252195,
+          "H_shannon": 0.2512765386627382,
+          "simboli_distinti": 107
+        },
+        "tempo": {
+          "frazione_zeri": 0.97289,
+          "H_min_solo_valore_piu_frequente": 0.03965139925988879,
+          "H_shannon": 0.25461798755720794,
+          "simboli_distinti": 107
+        }
+      }
+    },
+    {
+      "blocco": 16,
+      "frame_iniziale_richiesto": 31063,
+      "frame_iniziale_reale": 31063,
+      "secondo_iniziale": 1295.6,
+      "file": {
+        "spazio": "traffic_full_b16_spazio.bin",
+        "tempo": "traffic_full_b16_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.921532,
+          "H_min_solo_valore_piu_frequente": 0.11789383088732308,
+          "H_shannon": 0.6252001476363238,
+          "simboli_distinti": 254
+        },
+        "tempo": {
+          "frazione_zeri": 0.921549,
+          "H_min_solo_valore_piu_frequente": 0.11786721695587274,
+          "H_shannon": 0.6251194495212533,
+          "simboli_distinti": 254
+        }
+      }
+    },
+    {
+      "blocco": 17,
+      "frame_iniziale_richiesto": 33005,
+      "frame_iniziale_reale": 33005,
+      "secondo_iniziale": 1376.6,
+      "file": {
+        "spazio": "traffic_full_b17_spazio.bin",
+        "tempo": "traffic_full_b17_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.941966,
+          "H_min_solo_valore_piu_frequente": 0.08625310778458209,
+          "H_shannon": 0.4966411062128461,
+          "simboli_distinti": 234
+        },
+        "tempo": {
+          "frazione_zeri": 0.941965,
+          "H_min_solo_valore_piu_frequente": 0.08625463936407281,
+          "H_shannon": 0.4966658391309218,
+          "simboli_distinti": 234
+        }
+      }
+    },
+    {
+      "blocco": 18,
+      "frame_iniziale_richiesto": 34946,
+      "frame_iniziale_reale": 34946,
+      "secondo_iniziale": 1457.5,
+      "file": {
+        "spazio": "traffic_full_b18_spazio.bin",
+        "tempo": "traffic_full_b18_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.956467,
+          "H_min_solo_valore_piu_frequente": 0.06421290128475786,
+          "H_shannon": 0.3834832229970785,
+          "simboli_distinti": 216
+        },
+        "tempo": {
+          "frazione_zeri": 0.956189,
+          "H_min_solo_valore_piu_frequente": 0.06463228587267274,
+          "H_shannon": 0.38536339630362476,
+          "simboli_distinti": 216
+        }
+      }
+    },
+    {
+      "blocco": 19,
+      "frame_iniziale_richiesto": 36888,
+      "frame_iniziale_reale": 36888,
+      "secondo_iniziale": 1538.5,
+      "file": {
+        "spazio": "traffic_full_b19_spazio.bin",
+        "tempo": "traffic_full_b19_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.939431,
+          "H_min_solo_valore_piu_frequente": 0.09014089344798487,
+          "H_shannon": 0.4996628094670371,
+          "simboli_distinti": 233
+        },
+        "tempo": {
+          "frazione_zeri": 0.93945,
+          "H_min_solo_valore_piu_frequente": 0.09011171522352274,
+          "H_shannon": 0.49953744752790064,
+          "simboli_distinti": 233
+        }
+      }
+    },
+    {
+      "blocco": 20,
+      "frame_iniziale_richiesto": 38829,
+      "frame_iniziale_reale": 38829,
+      "secondo_iniziale": 1619.5,
+      "file": {
+        "spazio": "traffic_full_b20_spazio.bin",
+        "tempo": "traffic_full_b20_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.943828,
+          "H_min_solo_valore_piu_frequente": 0.08340412317744594,
+          "H_shannon": 0.4779024206824295,
+          "simboli_distinti": 235
+        },
+        "tempo": {
+          "frazione_zeri": 0.943835,
+          "H_min_solo_valore_piu_frequente": 0.08339342331705113,
+          "H_shannon": 0.47785587817326314,
+          "simboli_distinti": 235
+        }
+      }
+    },
+    {
+      "blocco": 21,
+      "frame_iniziale_richiesto": 40771,
+      "frame_iniziale_reale": 40771,
+      "secondo_iniziale": 1700.5,
+      "file": {
+        "spazio": "traffic_full_b21_spazio.bin",
+        "tempo": "traffic_full_b21_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.976662,
+          "H_min_solo_valore_piu_frequente": 0.03406872951350551,
+          "H_shannon": 0.22243431113357323,
+          "simboli_distinti": 130
+        },
+        "tempo": {
+          "frazione_zeri": 0.976655,
+          "H_min_solo_valore_piu_frequente": 0.03407906973507347,
+          "H_shannon": 0.22250941016678522,
+          "simboli_distinti": 130
+        }
+      }
+    },
+    {
+      "blocco": 22,
+      "frame_iniziale_richiesto": 42712,
+      "frame_iniziale_reale": 42712,
+      "secondo_iniziale": 1781.4,
+      "file": {
+        "spazio": "traffic_full_b22_spazio.bin",
+        "tempo": "traffic_full_b22_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.932186,
+          "H_min_solo_valore_piu_frequente": 0.10131024890842537,
+          "H_shannon": 0.5502485517987994,
+          "simboli_distinti": 242
+        },
+        "tempo": {
+          "frazione_zeri": 0.932156,
+          "H_min_solo_valore_piu_frequente": 0.10135667907116414,
+          "H_shannon": 0.5505871728413622,
+          "simboli_distinti": 242
+        }
+      }
+    },
+    {
+      "blocco": 23,
+      "frame_iniziale_richiesto": 44654,
+      "frame_iniziale_reale": 44654,
+      "secondo_iniziale": 1862.4,
+      "file": {
+        "spazio": "traffic_full_b23_spazio.bin",
+        "tempo": "traffic_full_b23_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.977294,
+          "H_min_solo_valore_piu_frequente": 0.03313546049655942,
+          "H_shannon": 0.22028817114214583,
+          "simboli_distinti": 122
+        },
+        "tempo": {
+          "frazione_zeri": 0.977294,
+          "H_min_solo_valore_piu_frequente": 0.03313546049655942,
+          "H_shannon": 0.220295113053258,
+          "simboli_distinti": 122
+        }
+      }
+    },
+    {
+      "blocco": 24,
+      "frame_iniziale_richiesto": 46595,
+      "frame_iniziale_reale": 46595,
+      "secondo_iniziale": 1943.4,
+      "file": {
+        "spazio": "traffic_full_b24_spazio.bin",
+        "tempo": "traffic_full_b24_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.957558,
+          "H_min_solo_valore_piu_frequente": 0.06256822009190631,
+          "H_shannon": 0.3727505657544914,
+          "simboli_distinti": 203
+        },
+        "tempo": {
+          "frazione_zeri": 0.957545,
+          "H_min_solo_valore_piu_frequente": 0.06258780654290336,
+          "H_shannon": 0.3728261175986966,
+          "simboli_distinti": 203
+        }
+      }
+    },
+    {
+      "blocco": 25,
+      "frame_iniziale_richiesto": 48537,
+      "frame_iniziale_reale": 48537,
+      "secondo_iniziale": 2024.4,
+      "file": {
+        "spazio": "traffic_full_b25_spazio.bin",
+        "tempo": "traffic_full_b25_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.93453,
+          "H_min_solo_valore_piu_frequente": 0.09768711721278263,
+          "H_shannon": 0.5476609388183895,
+          "simboli_distinti": 217
+        },
+        "tempo": {
+          "frazione_zeri": 0.934542,
+          "H_min_solo_valore_piu_frequente": 0.0976685921474123,
+          "H_shannon": 0.5475928823960313,
+          "simboli_distinti": 217
+        }
+      }
+    },
+    {
+      "blocco": 26,
+      "frame_iniziale_richiesto": 50478,
+      "frame_iniziale_reale": 50478,
+      "secondo_iniziale": 2105.4,
+      "file": {
+        "spazio": "traffic_full_b26_spazio.bin",
+        "tempo": "traffic_full_b26_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.938869,
+          "H_min_solo_valore_piu_frequente": 0.09100422160341803,
+          "H_shannon": 0.5124013941800927,
+          "simboli_distinti": 244
+        },
+        "tempo": {
+          "frazione_zeri": 0.938874,
+          "H_min_solo_valore_piu_frequente": 0.09099653846977887,
+          "H_shannon": 0.5123717291435255,
+          "simboli_distinti": 244
+        }
+      }
+    },
+    {
+      "blocco": 27,
+      "frame_iniziale_richiesto": 52420,
+      "frame_iniziale_reale": 52420,
+      "secondo_iniziale": 2186.4,
+      "file": {
+        "spazio": "traffic_full_b27_spazio.bin",
+        "tempo": "traffic_full_b27_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.941518,
+          "H_min_solo_valore_piu_frequente": 0.08693941825019488,
+          "H_shannon": 0.488258572646546,
+          "simboli_distinti": 217
+        },
+        "tempo": {
+          "frazione_zeri": 0.941522,
+          "H_min_solo_valore_piu_frequente": 0.08693328903343521,
+          "H_shannon": 0.48824212276901224,
+          "simboli_distinti": 217
+        }
+      }
+    },
+    {
+      "blocco": 28,
+      "frame_iniziale_richiesto": 54361,
+      "frame_iniziale_reale": 54361,
+      "secondo_iniziale": 2267.3,
+      "file": {
+        "spazio": "traffic_full_b28_spazio.bin",
+        "tempo": "traffic_full_b28_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.960603,
+          "H_min_solo_valore_piu_frequente": 0.05798778071307286,
+          "H_shannon": 0.355201837623055,
+          "simboli_distinti": 202
+        },
+        "tempo": {
+          "frazione_zeri": 0.960602,
+          "H_min_solo_valore_piu_frequente": 0.057989282577830585,
+          "H_shannon": 0.3552091294477404,
+          "simboli_distinti": 202
+        }
+      }
+    },
+    {
+      "blocco": 29,
+      "frame_iniziale_richiesto": 56303,
+      "frame_iniziale_reale": 56303,
+      "secondo_iniziale": 2348.3,
+      "file": {
+        "spazio": "traffic_full_b29_spazio.bin",
+        "tempo": "traffic_full_b29_tempo.bin"
+      },
+      "diagnostica": {
+        "spazio": {
+          "frazione_zeri": 0.967372,
+          "H_min_solo_valore_piu_frequente": 0.047857314438453806,
+          "H_shannon": 0.29380553869606746,
+          "simboli_distinti": 150
+        },
+        "tempo": {
+          "frazione_zeri": 0.967356,
+          "H_min_solo_valore_piu_frequente": 0.04788117631532205,
+          "H_shannon": 0.2939640755151152,
+          "simboli_distinti": 151
+        }
+      }
+    }
+  ],
+  "blocchi_scartati": []
+}

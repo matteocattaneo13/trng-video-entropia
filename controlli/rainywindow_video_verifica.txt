@@ -1,0 +1,24 @@
+=== VERIFICA VIDEO: rainywindow_video.mp4 ===
+SHA-256 file : e5dfa7acfc2e742816fa9f661f49a0827b6eb6597f2c3af4b121b34910dd0e39
+Codec        : av1 (Main)  pix_fmt=yuv420p
+Risoluzione  : 1920x1080
+Frame rate   : 30000/1001  (r=30000/1001)
+Bitrate      : 1.50 Mbit/s
+Durata       : 60.0 min
+
+Analisi dei frame in corso (puo' richiedere diversi minuti)...
+Frame analizzati: 107931  (60.0 min a 29.97 fps)
+
+[1] Frame identici o quasi identici al precedente: 0.00%  (di cui esattamente identici: 0.00%)
+    OK
+
+[2] Delta medio per frame (mediana globale): 0.320 livelli di grigio
+    Possibili TAGLI di scena a: 0:00
+    Dinamica stabile nel tempo. OK
+
+[3] Tratti RIPETUTI (loop): 0 candidati
+    Nessun loop evidente. OK
+
+[4] Segmento pulito piu' lungo: da 0:03, durata 59.9 min
+    ffmpeg -ss 3 -t 3594 -i "rainywindow_video.mp4" -c copy "rainywindow_video_pulito.mp4"
+    (poi controlla a occhio che nel pezzo non ci siano scritte o loghi)

@@ -1,0 +1,312 @@
+{
+  "prefisso": "traffic_full",
+  "modo": "spazio",
+  "margine": 2.0,
+  "video": "traffic_40min.mp4",
+  "sha256_video": "c4d9fb06c443640b151969a97a519485c8af1ab379c1ba7c748c4f608cfc98e5",
+  "blocchi": [
+    {
+      "blocco": 0,
+      "H_spazio": 0.012034,
+      "H_tempo": 0.017895,
+      "H_usata": 0.012034,
+      "campioni_per_uscita": 42547,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "traffic_full_b0_spazio.bin"
+    },
+    {
+      "blocco": 1,
+      "H_spazio": 0.018538,
+      "H_tempo": 0.016873,
+      "H_usata": 0.018538,
+      "campioni_per_uscita": 27619,
+      "uscite_256bit": 36,
+      "bit_out": 9216,
+      "file_sorgente": "traffic_full_b1_spazio.bin"
+    },
+    {
+      "blocco": 2,
+      "H_spazio": 0.01195,
+      "H_tempo": 0.014699,
+      "H_usata": 0.01195,
+      "campioni_per_uscita": 42846,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "traffic_full_b2_spazio.bin"
+    },
+    {
+      "blocco": 3,
+      "H_spazio": 0.01422,
+      "H_tempo": 0.012364,
+      "H_usata": 0.01422,
+      "campioni_per_uscita": 36006,
+      "uscite_256bit": 27,
+      "bit_out": 6912,
+      "file_sorgente": "traffic_full_b3_spazio.bin"
+    },
+    {
+      "blocco": 4,
+      "H_spazio": 0.020961,
+      "H_tempo": 0.02017,
+      "H_usata": 0.020961,
+      "campioni_per_uscita": 24427,
+      "uscite_256bit": 40,
+      "bit_out": 10240,
+      "file_sorgente": "traffic_full_b4_spazio.bin"
+    },
+    {
+      "blocco": 5,
+      "H_spazio": 0.014331,
+      "H_tempo": 0.011826,
+      "H_usata": 0.014331,
+      "campioni_per_uscita": 35727,
+      "uscite_256bit": 27,
+      "bit_out": 6912,
+      "file_sorgente": "traffic_full_b5_spazio.bin"
+    },
+    {
+      "blocco": 6,
+      "H_spazio": 0.019057,
+      "H_tempo": 0.023469,
+      "H_usata": 0.019057,
+      "campioni_per_uscita": 26867,
+      "uscite_256bit": 37,
+      "bit_out": 9472,
+      "file_sorgente": "traffic_full_b6_spazio.bin"
+    },
+    {
+      "blocco": 7,
+      "H_spazio": 0.016312,
+      "H_tempo": 0.012384,
+      "H_usata": 0.016312,
+      "campioni_per_uscita": 31388,
+      "uscite_256bit": 31,
+      "bit_out": 7936,
+      "file_sorgente": "traffic_full_b7_spazio.bin"
+    },
+    {
+      "blocco": 8,
+      "H_spazio": 0.009553,
+      "H_tempo": 0.015755,
+      "H_usata": 0.009553,
+      "campioni_per_uscita": 53596,
+      "uscite_256bit": 18,
+      "bit_out": 4608,
+      "file_sorgente": "traffic_full_b8_spazio.bin"
+    },
+    {
+      "blocco": 9,
+      "H_spazio": 0.010921,
+      "H_tempo": 0.018773,
+      "H_usata": 0.010921,
+      "campioni_per_uscita": 46883,
+      "uscite_256bit": 21,
+      "bit_out": 5376,
+      "file_sorgente": "traffic_full_b9_spazio.bin"
+    },
+    {
+      "blocco": 10,
+      "H_spazio": 0.015772,
+      "H_tempo": 0.016922,
+      "H_usata": 0.015772,
+      "campioni_per_uscita": 32463,
+      "uscite_256bit": 30,
+      "bit_out": 7680,
+      "file_sorgente": "traffic_full_b10_spazio.bin"
+    },
+    {
+      "blocco": 11,
+      "H_spazio": 0.007803,
+      "H_tempo": 0.019363,
+      "H_usata": 0.007803,
+      "campioni_per_uscita": 65616,
+      "uscite_256bit": 15,
+      "bit_out": 3840,
+      "file_sorgente": "traffic_full_b11_spazio.bin"
+    },
+    {
+      "blocco": 12,
+      "H_spazio": 0.01456,
+      "H_tempo": 0.017679,
+      "H_usata": 0.01456,
+      "campioni_per_uscita": 35165,
+      "uscite_256bit": 28,
+      "bit_out": 7168,
+      "file_sorgente": "traffic_full_b12_spazio.bin"
+    },
+    {
+      "blocco": 13,
+      "H_spazio": 0.020707,
+      "H_tempo": 0.017486,
+      "H_usata": 0.020707,
+      "campioni_per_uscita": 24726,
+      "uscite_256bit": 40,
+      "bit_out": 10240,
+      "file_sorgente": "traffic_full_b13_spazio.bin"
+    },
+    {
+      "blocco": 14,
+      "H_spazio": 0.014033,
+      "H_tempo": 0.006816,
+      "H_usata": 0.014033,
+      "campioni_per_uscita": 36486,
+      "uscite_256bit": 27,
+      "bit_out": 6912,
+      "file_sorgente": "traffic_full_b14_spazio.bin"
+    },
+    {
+      "blocco": 15,
+      "H_spazio": 0.007323,
+      "H_tempo": 0.011729,
+      "H_usata": 0.007323,
+      "campioni_per_uscita": 69917,
+      "uscite_256bit": 14,
+      "bit_out": 3584,
+      "file_sorgente": "traffic_full_b15_spazio.bin"
+    },
+    {
+      "blocco": 16,
+      "H_spazio": 0.018593,
+      "H_tempo": 0.016519,
+      "H_usata": 0.018593,
+      "campioni_per_uscita": 27538,
+      "uscite_256bit": 36,
+      "bit_out": 9216,
+      "file_sorgente": "traffic_full_b16_spazio.bin"
+    },
+    {
+      "blocco": 17,
+      "H_spazio": 0.008978,
+      "H_tempo": 0.0157,
+      "H_usata": 0.008978,
+      "campioni_per_uscita": 57029,
+      "uscite_256bit": 17,
+      "bit_out": 4352,
+      "file_sorgente": "traffic_full_b17_spazio.bin"
+    },
+    {
+      "blocco": 18,
+      "H_spazio": 0.013196,
+      "H_tempo": 0.015551,
+      "H_usata": 0.013196,
+      "campioni_per_uscita": 38800,
+      "uscite_256bit": 25,
+      "bit_out": 6400,
+      "file_sorgente": "traffic_full_b18_spazio.bin"
+    },
+    {
+      "blocco": 19,
+      "H_spazio": 0.018446,
+      "H_tempo": 0.012551,
+      "H_usata": 0.018446,
+      "campioni_per_uscita": 27757,
+      "uscite_256bit": 36,
+      "bit_out": 9216,
+      "file_sorgente": "traffic_full_b19_spazio.bin"
+    },
+    {
+      "blocco": 20,
+      "H_spazio": 0.013942,
+      "H_tempo": 0.009149,
+      "H_usata": 0.013942,
+      "campioni_per_uscita": 36724,
+      "uscite_256bit": 27,
+      "bit_out": 6912,
+      "file_sorgente": "traffic_full_b20_spazio.bin"
+    },
+    {
+      "blocco": 21,
+      "H_spazio": 0.00593,
+      "H_tempo": 0.012455,
+      "H_usata": 0.00593,
+      "campioni_per_uscita": 86341,
+      "uscite_256bit": 11,
+      "bit_out": 2816,
+      "file_sorgente": "traffic_full_b21_spazio.bin"
+    },
+    {
+      "blocco": 22,
+      "H_spazio": 0.019591,
+      "H_tempo": 0.009025,
+      "H_usata": 0.019591,
+      "campioni_per_uscita": 26135,
+      "uscite_256bit": 38,
+      "bit_out": 9728,
+      "file_sorgente": "traffic_full_b22_spazio.bin"
+    },
+    {
+      "blocco": 23,
+      "H_spazio": 0.007793,
+      "H_tempo": 0.005675,
+      "H_usata": 0.007793,
+      "campioni_per_uscita": 65700,
+      "uscite_256bit": 15,
+      "bit_out": 3840,
+      "file_sorgente": "traffic_full_b23_spazio.bin"
+    },
+    {
+      "blocco": 24,
+      "H_spazio": 0.009891,
+      "H_tempo": 0.013651,
+      "H_usata": 0.009891,
+      "campioni_per_uscita": 51765,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "traffic_full_b24_spazio.bin"
+    },
+    {
+      "blocco": 25,
+      "H_spazio": 0.01779,
+      "H_tempo": 0.01445,
+      "H_usata": 0.01779,
+      "campioni_per_uscita": 28781,
+      "uscite_256bit": 34,
+      "bit_out": 8704,
+      "file_sorgente": "traffic_full_b25_spazio.bin"
+    },
+    {
+      "blocco": 26,
+      "H_spazio": 0.013739,
+      "H_tempo": 0.018799,
+      "H_usata": 0.013739,
+      "campioni_per_uscita": 37267,
+      "uscite_256bit": 26,
+      "bit_out": 6656,
+      "file_sorgente": "traffic_full_b26_spazio.bin"
+    },
+    {
+      "blocco": 27,
+      "H_spazio": 0.012554,
+      "H_tempo": 0.014282,
+      "H_usata": 0.012554,
+      "campioni_per_uscita": 40784,
+      "uscite_256bit": 24,
+      "bit_out": 6144,
+      "file_sorgente": "traffic_full_b27_spazio.bin"
+    },
+    {
+      "blocco": 28,
+      "H_spazio": 0.012211,
+      "H_tempo": 0.011086,
+      "H_usata": 0.012211,
+      "campioni_per_uscita": 41930,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "traffic_full_b28_spazio.bin"
+    },
+    {
+      "blocco": 29,
+      "H_spazio": 0.01039,
+      "H_tempo": 0.011632,
+      "H_usata": 0.01039,
+      "campioni_per_uscita": 49279,
+      "uscite_256bit": 20,
+      "bit_out": 5120,
+      "file_sorgente": "traffic_full_b29_spazio.bin"
+    }
+  ],
+  "bit_totali": 201728,
+  "entropia_totale_stimata_bit": 411119.0,
+  "sha256_output": "6fc2d52a374a80a07ec2eeba2ae520ce40466bd48c95f9a9e1d9272d24d2b9aa"
+}

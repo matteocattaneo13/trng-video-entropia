@@ -1,0 +1,312 @@
+{
+  "prefisso": "lava_full",
+  "modo": "min",
+  "margine": 2.0,
+  "video": "lavalamp_40min.mp4",
+  "sha256_video": "53b7d44e24b4cdc36f2ec9811e1164a62c90b97789807c1d6a057105628a21f0",
+  "blocchi": [
+    {
+      "blocco": 0,
+      "H_spazio": 0.01603,
+      "H_tempo": 0.02165,
+      "H_usata": 0.01603,
+      "campioni_per_uscita": 31941,
+      "uscite_256bit": 31,
+      "bit_out": 7936,
+      "file_sorgente": "lava_full_b0_spazio.bin"
+    },
+    {
+      "blocco": 1,
+      "H_spazio": 0.019433,
+      "H_tempo": 0.010177,
+      "H_usata": 0.010177,
+      "campioni_per_uscita": 50310,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "lava_full_b1_spazio.bin"
+    },
+    {
+      "blocco": 2,
+      "H_spazio": 0.022156,
+      "H_tempo": 0.025879,
+      "H_usata": 0.022156,
+      "campioni_per_uscita": 23109,
+      "uscite_256bit": 43,
+      "bit_out": 11008,
+      "file_sorgente": "lava_full_b2_spazio.bin"
+    },
+    {
+      "blocco": 3,
+      "H_spazio": 0.013169,
+      "H_tempo": 0.001076,
+      "H_usata": 0.001076,
+      "campioni_per_uscita": 475837,
+      "uscite_256bit": 2,
+      "bit_out": 512,
+      "file_sorgente": "lava_full_b3_spazio.bin"
+    },
+    {
+      "blocco": 4,
+      "H_spazio": 0.020559,
+      "H_tempo": 0.012074,
+      "H_usata": 0.012074,
+      "campioni_per_uscita": 42406,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "lava_full_b4_spazio.bin"
+    },
+    {
+      "blocco": 5,
+      "H_spazio": 0.010375,
+      "H_tempo": 0.007827,
+      "H_usata": 0.007827,
+      "campioni_per_uscita": 65415,
+      "uscite_256bit": 15,
+      "bit_out": 3840,
+      "file_sorgente": "lava_full_b5_spazio.bin"
+    },
+    {
+      "blocco": 6,
+      "H_spazio": 0.020314,
+      "H_tempo": 0.012415,
+      "H_usata": 0.012415,
+      "campioni_per_uscita": 41241,
+      "uscite_256bit": 24,
+      "bit_out": 6144,
+      "file_sorgente": "lava_full_b6_spazio.bin"
+    },
+    {
+      "blocco": 7,
+      "H_spazio": 0.029371,
+      "H_tempo": 0.022121,
+      "H_usata": 0.022121,
+      "campioni_per_uscita": 23146,
+      "uscite_256bit": 43,
+      "bit_out": 11008,
+      "file_sorgente": "lava_full_b7_spazio.bin"
+    },
+    {
+      "blocco": 8,
+      "H_spazio": 0.010992,
+      "H_tempo": 0.008619,
+      "H_usata": 0.008619,
+      "campioni_per_uscita": 59404,
+      "uscite_256bit": 16,
+      "bit_out": 4096,
+      "file_sorgente": "lava_full_b8_spazio.bin"
+    },
+    {
+      "blocco": 9,
+      "H_spazio": 0.021057,
+      "H_tempo": 0.019376,
+      "H_usata": 0.019376,
+      "campioni_per_uscita": 26425,
+      "uscite_256bit": 37,
+      "bit_out": 9472,
+      "file_sorgente": "lava_full_b9_spazio.bin"
+    },
+    {
+      "blocco": 10,
+      "H_spazio": 0.021291,
+      "H_tempo": 0.02405,
+      "H_usata": 0.021291,
+      "campioni_per_uscita": 24048,
+      "uscite_256bit": 41,
+      "bit_out": 10496,
+      "file_sorgente": "lava_full_b10_spazio.bin"
+    },
+    {
+      "blocco": 11,
+      "H_spazio": 0.020394,
+      "H_tempo": 0.00204,
+      "H_usata": 0.00204,
+      "campioni_per_uscita": 250981,
+      "uscite_256bit": 3,
+      "bit_out": 768,
+      "file_sorgente": "lava_full_b11_spazio.bin"
+    },
+    {
+      "blocco": 12,
+      "H_spazio": 0.01752,
+      "H_tempo": 0.012883,
+      "H_usata": 0.012883,
+      "campioni_per_uscita": 39743,
+      "uscite_256bit": 25,
+      "bit_out": 6400,
+      "file_sorgente": "lava_full_b12_spazio.bin"
+    },
+    {
+      "blocco": 13,
+      "H_spazio": 0.012269,
+      "H_tempo": 0.015626,
+      "H_usata": 0.012269,
+      "campioni_per_uscita": 41732,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "lava_full_b13_spazio.bin"
+    },
+    {
+      "blocco": 14,
+      "H_spazio": 0.026494,
+      "H_tempo": 0.010867,
+      "H_usata": 0.010867,
+      "campioni_per_uscita": 47116,
+      "uscite_256bit": 21,
+      "bit_out": 5376,
+      "file_sorgente": "lava_full_b14_spazio.bin"
+    },
+    {
+      "blocco": 15,
+      "H_spazio": 0.000822,
+      "H_tempo": 0.009705,
+      "H_usata": 0.000822,
+      "campioni_per_uscita": 622872,
+      "uscite_256bit": 1,
+      "bit_out": 256,
+      "file_sorgente": "lava_full_b15_spazio.bin"
+    },
+    {
+      "blocco": 16,
+      "H_spazio": 0.018282,
+      "H_tempo": 0.016163,
+      "H_usata": 0.016163,
+      "campioni_per_uscita": 31678,
+      "uscite_256bit": 31,
+      "bit_out": 7936,
+      "file_sorgente": "lava_full_b16_spazio.bin"
+    },
+    {
+      "blocco": 17,
+      "H_spazio": 0.023059,
+      "H_tempo": 0.016965,
+      "H_usata": 0.016965,
+      "campioni_per_uscita": 30180,
+      "uscite_256bit": 33,
+      "bit_out": 8448,
+      "file_sorgente": "lava_full_b17_spazio.bin"
+    },
+    {
+      "blocco": 18,
+      "H_spazio": 0.015966,
+      "H_tempo": 0.01647,
+      "H_usata": 0.015966,
+      "campioni_per_uscita": 32069,
+      "uscite_256bit": 31,
+      "bit_out": 7936,
+      "file_sorgente": "lava_full_b18_spazio.bin"
+    },
+    {
+      "blocco": 19,
+      "H_spazio": 0.023287,
+      "H_tempo": 0.011987,
+      "H_usata": 0.011987,
+      "campioni_per_uscita": 42713,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "lava_full_b19_spazio.bin"
+    },
+    {
+      "blocco": 20,
+      "H_spazio": 0.021691,
+      "H_tempo": 0.014056,
+      "H_usata": 0.014056,
+      "campioni_per_uscita": 36426,
+      "uscite_256bit": 27,
+      "bit_out": 6912,
+      "file_sorgente": "lava_full_b20_spazio.bin"
+    },
+    {
+      "blocco": 21,
+      "H_spazio": 0.023625,
+      "H_tempo": 0.01019,
+      "H_usata": 0.01019,
+      "campioni_per_uscita": 50246,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "lava_full_b21_spazio.bin"
+    },
+    {
+      "blocco": 22,
+      "H_spazio": 0.01631,
+      "H_tempo": 0.020221,
+      "H_usata": 0.01631,
+      "campioni_per_uscita": 31392,
+      "uscite_256bit": 31,
+      "bit_out": 7936,
+      "file_sorgente": "lava_full_b22_spazio.bin"
+    },
+    {
+      "blocco": 23,
+      "H_spazio": 0.020294,
+      "H_tempo": 0.011039,
+      "H_usata": 0.011039,
+      "campioni_per_uscita": 46382,
+      "uscite_256bit": 21,
+      "bit_out": 5376,
+      "file_sorgente": "lava_full_b23_spazio.bin"
+    },
+    {
+      "blocco": 24,
+      "H_spazio": 0.021343,
+      "H_tempo": 0.024055,
+      "H_usata": 0.021343,
+      "campioni_per_uscita": 23990,
+      "uscite_256bit": 41,
+      "bit_out": 10496,
+      "file_sorgente": "lava_full_b24_spazio.bin"
+    },
+    {
+      "blocco": 25,
+      "H_spazio": 0.020176,
+      "H_tempo": 0.0191,
+      "H_usata": 0.0191,
+      "campioni_per_uscita": 26807,
+      "uscite_256bit": 37,
+      "bit_out": 9472,
+      "file_sorgente": "lava_full_b25_spazio.bin"
+    },
+    {
+      "blocco": 26,
+      "H_spazio": 0.018184,
+      "H_tempo": 0.003597,
+      "H_usata": 0.003597,
+      "campioni_per_uscita": 142341,
+      "uscite_256bit": 7,
+      "bit_out": 1792,
+      "file_sorgente": "lava_full_b26_spazio.bin"
+    },
+    {
+      "blocco": 27,
+      "H_spazio": 0.018421,
+      "H_tempo": 0.013736,
+      "H_usata": 0.013736,
+      "campioni_per_uscita": 37275,
+      "uscite_256bit": 26,
+      "bit_out": 6656,
+      "file_sorgente": "lava_full_b27_spazio.bin"
+    },
+    {
+      "blocco": 28,
+      "H_spazio": 0.017471,
+      "H_tempo": 0.030171,
+      "H_usata": 0.017471,
+      "campioni_per_uscita": 29306,
+      "uscite_256bit": 34,
+      "bit_out": 8704,
+      "file_sorgente": "lava_full_b28_spazio.bin"
+    },
+    {
+      "blocco": 29,
+      "H_spazio": 0.013786,
+      "H_tempo": 0.009887,
+      "H_usata": 0.009887,
+      "campioni_per_uscita": 51786,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "lava_full_b29_spazio.bin"
+    }
+  ],
+  "bit_totali": 191232,
+  "entropia_totale_stimata_bit": 389853.0,
+  "sha256_output": "1fb2e54d6593182d55af89293b5ec6240165cdf63312b187d629e8f9a40af27e"
+}

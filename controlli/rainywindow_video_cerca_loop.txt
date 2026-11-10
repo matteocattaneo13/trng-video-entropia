@@ -1,0 +1,16 @@
+=== STEP 1b - CERCA LOOP: controlli/rainywindow_video.mp4 (YouTube Is8Txx3JynQ) ===
+Rieseguito il 7/11/2026. Primi 300 s decodificati con ffmpeg (libdav1d) e ricodificati in H.264 480x270
+perche' OpenCV su questa macchina non decodifica AV1; lo script riduce comunque ogni frame a 96x54 in grigi.
+
+rw5.mp4: 29.97 fps, analizzo 300 s (1 frame ogni 3)...
+Campioni: 2997 (durata coperta 300 s)
+
+Picchi di somiglianza (periodo, correlazione, prominenza del picco):
+  periodo ~  114.6 s   correlazione =  0.81   prominenza =  0.48
+  periodo ~   57.4 s   correlazione =  0.81   prominenza =  0.48
+  periodo ~  137.8 s   correlazione = -0.07   prominenza =  0.01
+  periodo ~   80.5 s   correlazione = -0.07   prominenza =  0.01
+  periodo ~   23.2 s   correlazione = -0.07   prominenza =  0.01
+
+==> LOOP QUASI CERTO: il video si ripete ogni ~57 s.
+    Dati realmente diversi: circa 57 s, non 5 minuti. Cambia video.

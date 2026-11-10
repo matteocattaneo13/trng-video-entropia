@@ -1,0 +1,312 @@
+{
+  "prefisso": "rain_full",
+  "modo": "spazio",
+  "margine": 2.0,
+  "video": "rain_40min.mp4",
+  "sha256_video": "cd1feaf3931bd9e9670195163fadc289ba96b2b26610c1de84a417f66367065a",
+  "blocchi": [
+    {
+      "blocco": 0,
+      "H_spazio": 0.562632,
+      "H_tempo": 0.02172,
+      "H_usata": 0.562632,
+      "campioni_per_uscita": 911,
+      "uscite_256bit": 1097,
+      "bit_out": 280832,
+      "file_sorgente": "rain_full_b0_spazio.bin"
+    },
+    {
+      "blocco": 1,
+      "H_spazio": 0.548294,
+      "H_tempo": 0.019112,
+      "H_usata": 0.548294,
+      "campioni_per_uscita": 934,
+      "uscite_256bit": 1070,
+      "bit_out": 273920,
+      "file_sorgente": "rain_full_b1_spazio.bin"
+    },
+    {
+      "blocco": 2,
+      "H_spazio": 0.5305,
+      "H_tempo": 0.012508,
+      "H_usata": 0.5305,
+      "campioni_per_uscita": 966,
+      "uscite_256bit": 1035,
+      "bit_out": 264960,
+      "file_sorgente": "rain_full_b2_spazio.bin"
+    },
+    {
+      "blocco": 3,
+      "H_spazio": 0.511703,
+      "H_tempo": 0.03199,
+      "H_usata": 0.511703,
+      "campioni_per_uscita": 1001,
+      "uscite_256bit": 999,
+      "bit_out": 255744,
+      "file_sorgente": "rain_full_b3_spazio.bin"
+    },
+    {
+      "blocco": 4,
+      "H_spazio": 0.482438,
+      "H_tempo": 0.021615,
+      "H_usata": 0.482438,
+      "campioni_per_uscita": 1062,
+      "uscite_256bit": 941,
+      "bit_out": 240896,
+      "file_sorgente": "rain_full_b4_spazio.bin"
+    },
+    {
+      "blocco": 5,
+      "H_spazio": 0.385064,
+      "H_tempo": 0.009911,
+      "H_usata": 0.385064,
+      "campioni_per_uscita": 1330,
+      "uscite_256bit": 751,
+      "bit_out": 192256,
+      "file_sorgente": "rain_full_b5_spazio.bin"
+    },
+    {
+      "blocco": 6,
+      "H_spazio": 0.339756,
+      "H_tempo": 0.010397,
+      "H_usata": 0.339756,
+      "campioni_per_uscita": 1507,
+      "uscite_256bit": 663,
+      "bit_out": 169728,
+      "file_sorgente": "rain_full_b6_spazio.bin"
+    },
+    {
+      "blocco": 7,
+      "H_spazio": 0.257971,
+      "H_tempo": 0.009758,
+      "H_usata": 0.257971,
+      "campioni_per_uscita": 1985,
+      "uscite_256bit": 503,
+      "bit_out": 128768,
+      "file_sorgente": "rain_full_b7_spazio.bin"
+    },
+    {
+      "blocco": 8,
+      "H_spazio": 0.288762,
+      "H_tempo": 0.007904,
+      "H_usata": 0.288762,
+      "campioni_per_uscita": 1774,
+      "uscite_256bit": 563,
+      "bit_out": 144128,
+      "file_sorgente": "rain_full_b8_spazio.bin"
+    },
+    {
+      "blocco": 9,
+      "H_spazio": 0.464547,
+      "H_tempo": 0.017799,
+      "H_usata": 0.464547,
+      "campioni_per_uscita": 1103,
+      "uscite_256bit": 906,
+      "bit_out": 231936,
+      "file_sorgente": "rain_full_b9_spazio.bin"
+    },
+    {
+      "blocco": 10,
+      "H_spazio": 0.688241,
+      "H_tempo": 0.011718,
+      "H_usata": 0.688241,
+      "campioni_per_uscita": 744,
+      "uscite_256bit": 1344,
+      "bit_out": 344064,
+      "file_sorgente": "rain_full_b10_spazio.bin"
+    },
+    {
+      "blocco": 11,
+      "H_spazio": 0.773792,
+      "H_tempo": 0.023451,
+      "H_usata": 0.773792,
+      "campioni_per_uscita": 662,
+      "uscite_256bit": 1510,
+      "bit_out": 386560,
+      "file_sorgente": "rain_full_b11_spazio.bin"
+    },
+    {
+      "blocco": 12,
+      "H_spazio": 0.569127,
+      "H_tempo": 0.010302,
+      "H_usata": 0.569127,
+      "campioni_per_uscita": 900,
+      "uscite_256bit": 1111,
+      "bit_out": 284416,
+      "file_sorgente": "rain_full_b12_spazio.bin"
+    },
+    {
+      "blocco": 13,
+      "H_spazio": 0.40608,
+      "H_tempo": 0.010226,
+      "H_usata": 0.40608,
+      "campioni_per_uscita": 1261,
+      "uscite_256bit": 793,
+      "bit_out": 203008,
+      "file_sorgente": "rain_full_b13_spazio.bin"
+    },
+    {
+      "blocco": 14,
+      "H_spazio": 0.356423,
+      "H_tempo": 0.008709,
+      "H_usata": 0.356423,
+      "campioni_per_uscita": 1437,
+      "uscite_256bit": 695,
+      "bit_out": 177920,
+      "file_sorgente": "rain_full_b14_spazio.bin"
+    },
+    {
+      "blocco": 15,
+      "H_spazio": 0.326163,
+      "H_tempo": 0.007587,
+      "H_usata": 0.326163,
+      "campioni_per_uscita": 1570,
+      "uscite_256bit": 636,
+      "bit_out": 162816,
+      "file_sorgente": "rain_full_b15_spazio.bin"
+    },
+    {
+      "blocco": 16,
+      "H_spazio": 0.338549,
+      "H_tempo": 0.007318,
+      "H_usata": 0.338549,
+      "campioni_per_uscita": 1513,
+      "uscite_256bit": 660,
+      "bit_out": 168960,
+      "file_sorgente": "rain_full_b16_spazio.bin"
+    },
+    {
+      "blocco": 17,
+      "H_spazio": 0.347401,
+      "H_tempo": 0.007632,
+      "H_usata": 0.347401,
+      "campioni_per_uscita": 1474,
+      "uscite_256bit": 678,
+      "bit_out": 173568,
+      "file_sorgente": "rain_full_b17_spazio.bin"
+    },
+    {
+      "blocco": 18,
+      "H_spazio": 0.291803,
+      "H_tempo": 0.009189,
+      "H_usata": 0.291803,
+      "campioni_per_uscita": 1755,
+      "uscite_256bit": 569,
+      "bit_out": 145664,
+      "file_sorgente": "rain_full_b18_spazio.bin"
+    },
+    {
+      "blocco": 19,
+      "H_spazio": 0.400516,
+      "H_tempo": 0.010797,
+      "H_usata": 0.400516,
+      "campioni_per_uscita": 1279,
+      "uscite_256bit": 781,
+      "bit_out": 199936,
+      "file_sorgente": "rain_full_b19_spazio.bin"
+    },
+    {
+      "blocco": 20,
+      "H_spazio": 0.361202,
+      "H_tempo": 0.010203,
+      "H_usata": 0.361202,
+      "campioni_per_uscita": 1418,
+      "uscite_256bit": 705,
+      "bit_out": 180480,
+      "file_sorgente": "rain_full_b20_spazio.bin"
+    },
+    {
+      "blocco": 21,
+      "H_spazio": 0.256783,
+      "H_tempo": 0.005398,
+      "H_usata": 0.256783,
+      "campioni_per_uscita": 1994,
+      "uscite_256bit": 501,
+      "bit_out": 128256,
+      "file_sorgente": "rain_full_b21_spazio.bin"
+    },
+    {
+      "blocco": 22,
+      "H_spazio": 0.306378,
+      "H_tempo": 0.006482,
+      "H_usata": 0.306378,
+      "campioni_per_uscita": 1672,
+      "uscite_256bit": 598,
+      "bit_out": 153088,
+      "file_sorgente": "rain_full_b22_spazio.bin"
+    },
+    {
+      "blocco": 23,
+      "H_spazio": 0.351119,
+      "H_tempo": 0.009018,
+      "H_usata": 0.351119,
+      "campioni_per_uscita": 1459,
+      "uscite_256bit": 685,
+      "bit_out": 175360,
+      "file_sorgente": "rain_full_b23_spazio.bin"
+    },
+    {
+      "blocco": 24,
+      "H_spazio": 0.31192,
+      "H_tempo": 0.01207,
+      "H_usata": 0.31192,
+      "campioni_per_uscita": 1642,
+      "uscite_256bit": 609,
+      "bit_out": 155904,
+      "file_sorgente": "rain_full_b24_spazio.bin"
+    },
+    {
+      "blocco": 25,
+      "H_spazio": 0.336459,
+      "H_tempo": 0.007484,
+      "H_usata": 0.336459,
+      "campioni_per_uscita": 1522,
+      "uscite_256bit": 657,
+      "bit_out": 168192,
+      "file_sorgente": "rain_full_b25_spazio.bin"
+    },
+    {
+      "blocco": 26,
+      "H_spazio": 0.264633,
+      "H_tempo": 0.005285,
+      "H_usata": 0.264633,
+      "campioni_per_uscita": 1935,
+      "uscite_256bit": 516,
+      "bit_out": 132096,
+      "file_sorgente": "rain_full_b26_spazio.bin"
+    },
+    {
+      "blocco": 27,
+      "H_spazio": 0.263541,
+      "H_tempo": 0.003704,
+      "H_usata": 0.263541,
+      "campioni_per_uscita": 1943,
+      "uscite_256bit": 514,
+      "bit_out": 131584,
+      "file_sorgente": "rain_full_b27_spazio.bin"
+    },
+    {
+      "blocco": 28,
+      "H_spazio": 0.240417,
+      "H_tempo": 0.003056,
+      "H_usata": 0.240417,
+      "campioni_per_uscita": 2130,
+      "uscite_256bit": 469,
+      "bit_out": 120064,
+      "file_sorgente": "rain_full_b28_spazio.bin"
+    },
+    {
+      "blocco": 29,
+      "H_spazio": 0.120791,
+      "H_tempo": 0.006038,
+      "H_usata": 0.120791,
+      "campioni_per_uscita": 4239,
+      "uscite_256bit": 235,
+      "bit_out": 60160,
+      "file_sorgente": "rain_full_b29_spazio.bin"
+    }
+  ],
+  "bit_totali": 5835264,
+  "entropia_totale_stimata_bit": 11683005.0,
+  "sha256_output": "b3012b02794cef18f88d20f9f62924055a1cb9648689da263196b7b972b449fd"
+}

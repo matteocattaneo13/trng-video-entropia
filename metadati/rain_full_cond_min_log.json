@@ -1,0 +1,312 @@
+{
+  "prefisso": "rain_full",
+  "modo": "min",
+  "margine": 2.0,
+  "video": "rain_40min.mp4",
+  "sha256_video": "cd1feaf3931bd9e9670195163fadc289ba96b2b26610c1de84a417f66367065a",
+  "blocchi": [
+    {
+      "blocco": 0,
+      "H_spazio": 0.562632,
+      "H_tempo": 0.02172,
+      "H_usata": 0.02172,
+      "campioni_per_uscita": 23573,
+      "uscite_256bit": 42,
+      "bit_out": 10752,
+      "file_sorgente": "rain_full_b0_spazio.bin"
+    },
+    {
+      "blocco": 1,
+      "H_spazio": 0.548294,
+      "H_tempo": 0.019112,
+      "H_usata": 0.019112,
+      "campioni_per_uscita": 26790,
+      "uscite_256bit": 37,
+      "bit_out": 9472,
+      "file_sorgente": "rain_full_b1_spazio.bin"
+    },
+    {
+      "blocco": 2,
+      "H_spazio": 0.5305,
+      "H_tempo": 0.012508,
+      "H_usata": 0.012508,
+      "campioni_per_uscita": 40934,
+      "uscite_256bit": 24,
+      "bit_out": 6144,
+      "file_sorgente": "rain_full_b2_spazio.bin"
+    },
+    {
+      "blocco": 3,
+      "H_spazio": 0.511703,
+      "H_tempo": 0.03199,
+      "H_usata": 0.03199,
+      "campioni_per_uscita": 16006,
+      "uscite_256bit": 62,
+      "bit_out": 15872,
+      "file_sorgente": "rain_full_b3_spazio.bin"
+    },
+    {
+      "blocco": 4,
+      "H_spazio": 0.482438,
+      "H_tempo": 0.021615,
+      "H_usata": 0.021615,
+      "campioni_per_uscita": 23688,
+      "uscite_256bit": 42,
+      "bit_out": 10752,
+      "file_sorgente": "rain_full_b4_spazio.bin"
+    },
+    {
+      "blocco": 5,
+      "H_spazio": 0.385064,
+      "H_tempo": 0.009911,
+      "H_usata": 0.009911,
+      "campioni_per_uscita": 51660,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "rain_full_b5_spazio.bin"
+    },
+    {
+      "blocco": 6,
+      "H_spazio": 0.339756,
+      "H_tempo": 0.010397,
+      "H_usata": 0.010397,
+      "campioni_per_uscita": 49245,
+      "uscite_256bit": 20,
+      "bit_out": 5120,
+      "file_sorgente": "rain_full_b6_spazio.bin"
+    },
+    {
+      "blocco": 7,
+      "H_spazio": 0.257971,
+      "H_tempo": 0.009758,
+      "H_usata": 0.009758,
+      "campioni_per_uscita": 52470,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "rain_full_b7_spazio.bin"
+    },
+    {
+      "blocco": 8,
+      "H_spazio": 0.288762,
+      "H_tempo": 0.007904,
+      "H_usata": 0.007904,
+      "campioni_per_uscita": 64778,
+      "uscite_256bit": 15,
+      "bit_out": 3840,
+      "file_sorgente": "rain_full_b8_spazio.bin"
+    },
+    {
+      "blocco": 9,
+      "H_spazio": 0.464547,
+      "H_tempo": 0.017799,
+      "H_usata": 0.017799,
+      "campioni_per_uscita": 28766,
+      "uscite_256bit": 34,
+      "bit_out": 8704,
+      "file_sorgente": "rain_full_b9_spazio.bin"
+    },
+    {
+      "blocco": 10,
+      "H_spazio": 0.688241,
+      "H_tempo": 0.011718,
+      "H_usata": 0.011718,
+      "campioni_per_uscita": 43694,
+      "uscite_256bit": 22,
+      "bit_out": 5632,
+      "file_sorgente": "rain_full_b10_spazio.bin"
+    },
+    {
+      "blocco": 11,
+      "H_spazio": 0.773792,
+      "H_tempo": 0.023451,
+      "H_usata": 0.023451,
+      "campioni_per_uscita": 21833,
+      "uscite_256bit": 45,
+      "bit_out": 11520,
+      "file_sorgente": "rain_full_b11_spazio.bin"
+    },
+    {
+      "blocco": 12,
+      "H_spazio": 0.569127,
+      "H_tempo": 0.010302,
+      "H_usata": 0.010302,
+      "campioni_per_uscita": 49700,
+      "uscite_256bit": 20,
+      "bit_out": 5120,
+      "file_sorgente": "rain_full_b12_spazio.bin"
+    },
+    {
+      "blocco": 13,
+      "H_spazio": 0.40608,
+      "H_tempo": 0.010226,
+      "H_usata": 0.010226,
+      "campioni_per_uscita": 50069,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "rain_full_b13_spazio.bin"
+    },
+    {
+      "blocco": 14,
+      "H_spazio": 0.356423,
+      "H_tempo": 0.008709,
+      "H_usata": 0.008709,
+      "campioni_per_uscita": 58790,
+      "uscite_256bit": 17,
+      "bit_out": 4352,
+      "file_sorgente": "rain_full_b14_spazio.bin"
+    },
+    {
+      "blocco": 15,
+      "H_spazio": 0.326163,
+      "H_tempo": 0.007587,
+      "H_usata": 0.007587,
+      "campioni_per_uscita": 67484,
+      "uscite_256bit": 14,
+      "bit_out": 3584,
+      "file_sorgente": "rain_full_b15_spazio.bin"
+    },
+    {
+      "blocco": 16,
+      "H_spazio": 0.338549,
+      "H_tempo": 0.007318,
+      "H_usata": 0.007318,
+      "campioni_per_uscita": 69965,
+      "uscite_256bit": 14,
+      "bit_out": 3584,
+      "file_sorgente": "rain_full_b16_spazio.bin"
+    },
+    {
+      "blocco": 17,
+      "H_spazio": 0.347401,
+      "H_tempo": 0.007632,
+      "H_usata": 0.007632,
+      "campioni_per_uscita": 67086,
+      "uscite_256bit": 14,
+      "bit_out": 3584,
+      "file_sorgente": "rain_full_b17_spazio.bin"
+    },
+    {
+      "blocco": 18,
+      "H_spazio": 0.291803,
+      "H_tempo": 0.009189,
+      "H_usata": 0.009189,
+      "campioni_per_uscita": 55719,
+      "uscite_256bit": 17,
+      "bit_out": 4352,
+      "file_sorgente": "rain_full_b18_spazio.bin"
+    },
+    {
+      "blocco": 19,
+      "H_spazio": 0.400516,
+      "H_tempo": 0.010797,
+      "H_usata": 0.010797,
+      "campioni_per_uscita": 47421,
+      "uscite_256bit": 21,
+      "bit_out": 5376,
+      "file_sorgente": "rain_full_b19_spazio.bin"
+    },
+    {
+      "blocco": 20,
+      "H_spazio": 0.361202,
+      "H_tempo": 0.010203,
+      "H_usata": 0.010203,
+      "campioni_per_uscita": 50182,
+      "uscite_256bit": 19,
+      "bit_out": 4864,
+      "file_sorgente": "rain_full_b20_spazio.bin"
+    },
+    {
+      "blocco": 21,
+      "H_spazio": 0.256783,
+      "H_tempo": 0.005398,
+      "H_usata": 0.005398,
+      "campioni_per_uscita": 94850,
+      "uscite_256bit": 10,
+      "bit_out": 2560,
+      "file_sorgente": "rain_full_b21_spazio.bin"
+    },
+    {
+      "blocco": 22,
+      "H_spazio": 0.306378,
+      "H_tempo": 0.006482,
+      "H_usata": 0.006482,
+      "campioni_per_uscita": 78988,
+      "uscite_256bit": 12,
+      "bit_out": 3072,
+      "file_sorgente": "rain_full_b22_spazio.bin"
+    },
+    {
+      "blocco": 23,
+      "H_spazio": 0.351119,
+      "H_tempo": 0.009018,
+      "H_usata": 0.009018,
+      "campioni_per_uscita": 56776,
+      "uscite_256bit": 17,
+      "bit_out": 4352,
+      "file_sorgente": "rain_full_b23_spazio.bin"
+    },
+    {
+      "blocco": 24,
+      "H_spazio": 0.31192,
+      "H_tempo": 0.01207,
+      "H_usata": 0.01207,
+      "campioni_per_uscita": 42420,
+      "uscite_256bit": 23,
+      "bit_out": 5888,
+      "file_sorgente": "rain_full_b24_spazio.bin"
+    },
+    {
+      "blocco": 25,
+      "H_spazio": 0.336459,
+      "H_tempo": 0.007484,
+      "H_usata": 0.007484,
+      "campioni_per_uscita": 68413,
+      "uscite_256bit": 14,
+      "bit_out": 3584,
+      "file_sorgente": "rain_full_b25_spazio.bin"
+    },
+    {
+      "blocco": 26,
+      "H_spazio": 0.264633,
+      "H_tempo": 0.005285,
+      "H_usata": 0.005285,
+      "campioni_per_uscita": 96878,
+      "uscite_256bit": 10,
+      "bit_out": 2560,
+      "file_sorgente": "rain_full_b26_spazio.bin"
+    },
+    {
+      "blocco": 27,
+      "H_spazio": 0.263541,
+      "H_tempo": 0.003704,
+      "H_usata": 0.003704,
+      "campioni_per_uscita": 138229,
+      "uscite_256bit": 7,
+      "bit_out": 1792,
+      "file_sorgente": "rain_full_b27_spazio.bin"
+    },
+    {
+      "blocco": 28,
+      "H_spazio": 0.240417,
+      "H_tempo": 0.003056,
+      "H_usata": 0.003056,
+      "campioni_per_uscita": 167540,
+      "uscite_256bit": 5,
+      "bit_out": 1280,
+      "file_sorgente": "rain_full_b28_spazio.bin"
+    },
+    {
+      "blocco": 29,
+      "H_spazio": 0.120791,
+      "H_tempo": 0.006038,
+      "H_usata": 0.006038,
+      "campioni_per_uscita": 84797,
+      "uscite_256bit": 11,
+      "bit_out": 2816,
+      "file_sorgente": "rain_full_b29_spazio.bin"
+    }
+  ],
+  "bit_totali": 165120,
+  "entropia_totale_stimata_bit": 338381.0,
+  "sha256_output": "68d9acdbc6523a9402fb29a5b23f34a6f32dba6fda0c7bd6208606adcf72436f"
+}
